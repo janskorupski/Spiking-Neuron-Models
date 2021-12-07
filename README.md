@@ -1,0 +1,2 @@
+# Spiking-Neuron-Models
+A small set off classes used to generate stimuli, solve numerical equations for spiking neuron models (Hodgkin-Huxley and Integrarte and Fire variants) and potentially optimize parameters for model behaviour similiarity. This is not a numerically optimal way of solving such equations (preferentially C++ could be used for an optimal algorithm). This repository was made for the purposes of my dissertation.
